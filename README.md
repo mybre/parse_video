@@ -15,16 +15,3 @@
 - [蓝奏云](https://wws.lanzous.com/iVzbne34t8d)
 
 - [Flutter Music](https://github.com/liuchuancong/music/blob/master/build/app/outputs/apk/release/app-release.apk)
-
-
-
-### 截图
-<img src="https://github.com/liuchuancong/music/blob/master/image/1.jpg" width="200" height="400" />
-<img src="https://github.com/liuchuancong/music/blob/master/image/2.jpg" width="200" height="400" />
-<img src="https://github.com/liuchuancong/music/blob/master/image/3.jpg" width="200" height="400" />
-<img src="https://github.com/liuchuancong/music/blob/master/image/4.jpg" width="200" height="400" />
-<img src="https://github.com/liuchuancong/music/blob/master/image/5.jpg" width="200" height="400" />
-<img src="https://github.com/liuchuancong/music/blob/master/image/6.jpg" width="200" height="400" />
-<img src="https://github.com/liuchuancong/music/blob/master/image/7.jpg" width="200" height="400" />
-
-##### 喜欢，请star
